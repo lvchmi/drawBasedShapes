@@ -1,0 +1,45 @@
+﻿生成启动时间为 2015/10/26 22:51:10。
+     1>项目“E:\CWorkSpace\micString\micString\micString.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\micString.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\micString.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         H:\Program Files (x86)\visual 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt drawLine.cpp micString.cpp
+         micString.cpp
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(9): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(9): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(35): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(36): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(60): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(61): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(76): warning C4804: “<”: 在操作中使用类型“bool”不安全
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(55): warning C4101: “flag”: 未引用的局部变量
+     1>e:\cworkspace\micstring\micstring\micstring.cpp(159): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 h:\program files (x86)\visual 2010\vc\include\conio.h(128) : 参见“getch”的声明
+         drawLine.cpp
+         正在生成代码...
+       Link:
+         H:\Program Files (x86)\visual 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\CWorkSpace\micString\Debug\micString.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\micString.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\CWorkSpace\micString\Debug\micString.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\CWorkSpace\micString\Debug\micString.lib" /MACHINE:X86 Debug\drawLine.obj
+         Debug\micString.obj
+         micString.vcxproj -> E:\CWorkSpace\micString\Debug\micString.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\CWorkSpace\micString\Debug\micString.exe;#1" /manifest Debug\micString.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\micString.unsuccessfulbuild”。
+         正在对“Debug\micString.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\CWorkSpace\micString\micString\micString.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.66
